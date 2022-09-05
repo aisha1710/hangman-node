@@ -5,3 +5,5 @@ const game = new Game();
 
 // Start playing
 game.play();
+
+//by lieing
